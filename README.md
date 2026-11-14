@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude%20Code-template-8b5cf6" alt="Claude Code template">
-  <img src="https://img.shields.io/badge/Markdown-only-4f8cff" alt="Markdown only">
-  <img src="https://img.shields.io/badge/license-MIT-86e3bf" alt="MIT license">
+  <img src="https://img.shields.io/badge/Claude%20Code-template-0131cd" alt="Claude Code template">
+  <img src="https://img.shields.io/badge/Markdown-only-0a1b52" alt="Markdown only">
+  <img src="https://img.shields.io/badge/license-MIT-0a1b52" alt="MIT license">
 </p>
 
 ---
